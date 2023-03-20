@@ -44,6 +44,7 @@ export class AppComponent {
       },
     });
     state.sixe.onmessage = (event: any) => {
+      console.log(event?.data);
       this.zone.run(() => {
          this.state2 = event?.data;
          console.log(this.state2);
