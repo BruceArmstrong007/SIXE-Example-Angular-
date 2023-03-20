@@ -1,5 +1,7 @@
 # Example for SIXE
 
+SIXE - Package
+https://www.npmjs.com/package/sixe
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
